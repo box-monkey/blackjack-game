@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(0, 125, 0);
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+head {
+    /* margin: 5px; */
+    border: 2px solid plum;
+}
+
+.header-text {
+    color: gold;
+    
+    
+}
+
+section {
+    border: 2px solid powderblue;
+}
+
+p {
+    color: gold;
+    font-weight: bold;
+    font-style: italic;
+    margin: 15px;
+    font-size: 28px;
+    padding: 10px;
+}
+
+button {
+   background-color: gold; 
+    height: 30px;
+    width: 150px;
+    margin: 15px;
+}
